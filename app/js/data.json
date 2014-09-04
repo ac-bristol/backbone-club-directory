@@ -1,0 +1,35 @@
+directoryData = [
+	{
+		"ID": "1",
+		"clubname": "Badtri",
+		"email": "info@badtri.com",
+		"phone": "1-012-354-2647",
+		"website": "www.badtri.com",
+		"category": "Tri"
+	},
+	{
+		"ID": "2",
+		"clubname": "North bristol tri",
+		"email": "info@nbt.com",
+		"phone": "1-012-354-2647",
+		"website": "www.northbristoltri.com",
+		"category": "Tri"
+	},
+	{
+		"ID": "3",
+		"clubname": "Stroud District CC",
+		"email": "info@sdcc.com",
+		"phone": "1-012-354-2647",
+		"website": "stroud-cc.com",
+		"category": "Cycle"
+	},
+	{
+		"ID": "4",
+		"clubname": "Stroud Athletics Club",
+		"email": "info@sac.com",
+		"phone": "1-012-354-2647",
+		"website": "stroud-athletics.com",
+		"category": "Run"
+	}
+	
+]
